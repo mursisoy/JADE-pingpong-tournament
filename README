@@ -1,0 +1,3 @@
+# JADE Agents Ping-Pong Tournament
+
+`java -jar jade.Boot -gui worlds:practica2.organizer.Organizer;generator:practica2.generator.PlayerGenerator`
